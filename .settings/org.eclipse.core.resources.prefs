@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/CONTROLLER/GrammarManageController.java=UTF-8
+encoding//src/CONTROLLER/GrammarManageUpdateController.java=UTF-8
+encoding//src/CONTROLLER/ListGrammarManageForward.java=UTF-8
+encoding//src/CONTROLLER/LoginController.java=UTF-8
+encoding//src/CONTROLLER/NewGrammarController.java=UTF-8
+encoding//src/CONTROLLER/NewMemberAccountController.java=UTF-8
+encoding//src/CONTROLLER/RegisterController.java=UTF-8
+encoding//src/DAO/GrammarManageDAO.java=UTF-8
+encoding//src/DAO/MemberAccountDAO.java=UTF-8
